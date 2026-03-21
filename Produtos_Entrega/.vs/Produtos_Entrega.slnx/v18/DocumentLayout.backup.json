@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87B1C6-C7D4-482F-8E9F-83B1341D0635}|Produtos_Entrega\\Produtos_Entrega.csproj|c:\\users\\alan lacerda arantes\\source\\repos\\produtos_entrega\\produtos_entrega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87B1C6-C7D4-482F-8E9F-83B1341D0635}|Produtos_Entrega\\Produtos_Entrega.csproj|solutionrelative:produtos_entrega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87B1C6-C7D4-482F-8E9F-83B1341D0635}|Produtos_Entrega\\Produtos_Entrega.csproj|c:\\users\\alan lacerda arantes\\source\\repos\\produtos_entrega\\produtos_entrega\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87B1C6-C7D4-482F-8E9F-83B1341D0635}|Produtos_Entrega\\Produtos_Entrega.csproj|solutionrelative:produtos_entrega\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87B1C6-C7D4-482F-8E9F-83B1341D0635}|Produtos_Entrega\\Produtos_Entrega.csproj|c:\\users\\alan lacerda arantes\\source\\repos\\produtos_entrega\\produtos_entrega\\produtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87B1C6-C7D4-482F-8E9F-83B1341D0635}|Produtos_Entrega\\Produtos_Entrega.csproj|solutionrelative:produtos_entrega\\produtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\Produtos_Entrega\\Migrations\\20260316004213_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Produtos_Entrega\\Migrations\\20260316004213_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87B1C6-C7D4-482F-8E9F-83B1341D0635}|Produtos_Entrega\\Produtos_Entrega.csproj|c:\\users\\alan lacerda arantes\\source\\repos\\produtos_entrega\\produtos_entrega\\produtos_entrega.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F87B1C6-C7D4-482F-8E9F-83B1341D0635}|Produtos_Entrega\\Produtos_Entrega.csproj|solutionrelative:produtos_entrega\\produtos_entrega.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260316004213_inital.cs",
+              "DocumentMoniker": "C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\Produtos_Entrega\\Migrations\\20260316004213_inital.cs",
+              "RelativeDocumentMoniker": "Produtos_Entrega\\Migrations\\20260316004213_inital.cs",
+              "ToolTip": "C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\Produtos_Entrega\\Migrations\\20260316004213_inital.cs",
+              "RelativeToolTip": "Produtos_Entrega\\Migrations\\20260316004213_inital.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:42:14.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produtos_Entrega",
+              "DocumentMoniker": "C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\Produtos_Entrega\\Produtos_Entrega.csproj",
+              "RelativeDocumentMoniker": "Produtos_Entrega\\Produtos_Entrega.csproj",
+              "ToolTip": "C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\Produtos_Entrega\\Produtos_Entrega.csproj",
+              "RelativeToolTip": "Produtos_Entrega\\Produtos_Entrega.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T00:33:10.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoDb.cs",
+              "DocumentMoniker": "C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\Produtos_Entrega\\ProdutoDb.cs",
+              "RelativeDocumentMoniker": "Produtos_Entrega\\ProdutoDb.cs",
+              "ToolTip": "C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\Produtos_Entrega\\ProdutoDb.cs",
+              "RelativeToolTip": "Produtos_Entrega\\ProdutoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:33:29.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\Produtos_Entrega\\Program.cs",
+              "RelativeDocumentMoniker": "Produtos_Entrega\\Program.cs",
+              "ToolTip": "C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\Produtos_Entrega\\Program.cs",
+              "RelativeToolTip": "Produtos_Entrega\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:32:21.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\Produtos_Entrega\\Produto.cs",
+              "RelativeDocumentMoniker": "Produtos_Entrega\\Produto.cs",
+              "ToolTip": "C:\\Users\\Alan Lacerda Arantes\\source\\repos\\Produtos_Entrega\\Produtos_Entrega\\Produto.cs",
+              "RelativeToolTip": "Produtos_Entrega\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:31:36.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
