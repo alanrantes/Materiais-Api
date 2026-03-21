@@ -32,22 +32,33 @@ permitindo operações de criação, leitura, atualização e exclusão de dados
 
 ---
 
-## 🚀 Endpoints
+## Endpoints
 
-| Método | Rota | Descrição |
-|--------|------|----------|
-| GET | `/` | Verifica se a API está em execução |
-| GET | `/produtos` | Lista todos os produtos |
-| GET | `/produtos/por-codigo/{codigo}` | Busca um produto pelo código |
-| GET | `/produtos/por-categoria/{categoria}` | Lista produtos por categoria |
-| POST | `/produtos` | Cria um novo produto |
-| PUT | `/produtos/{id}` | Atualiza todos os dados de um produto |
-| PATCH | `/produtos/{id}` | Atualiza parcialmente um produto |
-| DELETE | `/produtos/{id}` | Remove um produto |
+<div align="center">
+
+<table>
+<tr>
+<th>Método</th>
+<th>Rota</th>
+<th>Descrição</th>
+</tr>
+
+<tr><td>GET</td><td>/</td><td>Verifica se a API está em execução</td></tr>
+<tr><td>GET</td><td>/produtos</td><td>Lista todos os produtos</td></tr>
+<tr><td>GET</td><td>/produtos/por-codigo/{codigo}</td><td>Busca um produto pelo código</td></tr>
+<tr><td>GET</td><td>/produtos/por-categoria/{categoria}</td><td>Lista produtos por categoria</td></tr>
+<tr><td>POST</td><td>/produtos</td><td>Cria um novo produto</td></tr>
+<tr><td>PUT</td><td>/produtos/{id}</td><td>Atualiza todos os dados</td></tr>
+<tr><td>PATCH</td><td>/produtos/{id}</td><td>Atualiza parcialmente</td></tr>
+<tr><td>DELETE</td><td>/produtos/{id}</td><td>Remove um produto</td></tr>
+
+</table>
+
+</div>
 
 ---
 
-## 📦 Exemplo de Produto (JSON)
+## Exemplo de Produto (JSON)
 
 ```json
 {
@@ -70,6 +81,6 @@ permitindo operações de criação, leitura, atualização e exclusão de dados
 4. Execute o projeto
 5. Utilize ferramentas como Postman para testar os endpoints
 
-## 🧪 Testes
+## Testes
 
 Todos os endpoints foram testados utilizando o Postman, garantindo o funcionamento correto das operações de CRUD.
